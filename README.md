@@ -24,6 +24,5 @@ The "Stopwatch Web Application" project is a web-based stopwatch tool developed 
 
 ## Future Enhancements
 
-- **Lap Time Functionality**: Add support for recording and displaying lap times during stopwatch operation.
 - **Customization Options**: Incorporate options for users to customize the stopwatch appearance and behavior, such as color themes or sound effects.
 - **Export Data**: Implement features for exporting stopwatch data or time records for further analysis or sharing.
