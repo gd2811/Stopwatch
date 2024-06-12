@@ -1,6 +1,4 @@
-# Stopwatch Web Application Project Summary
 
-The "Stopwatch Web Application" project is a web-based stopwatch tool developed using HTML, CSS, and JavaScript. It provides users with a simple yet functional stopwatch interface for tracking elapsed time.
 
 ## Key Features
 
