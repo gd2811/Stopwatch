@@ -18,8 +18,4 @@
 
 - **HTML**: Markup language for structuring the web page content.
 - **CSS**: Stylesheet language for styling the elements and layout of the page.
-- **JavaScript**: Programming language for implementing stopwatch functionality and interactivity.
-      ## Future Enhancements
-
-- **Customization Options**: Incorporate options for users to customize the stopwatch appearance and behavior, such as color themes or sound effects.
-- **Export Data**: Implement features for exporting stopwatch data or time records for further analysis or sharing.
+- **JavaScript**: Programming language for implementing stopwatch functionality.
